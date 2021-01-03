@@ -2,6 +2,8 @@
 @import url('/src/css/blocks/header.css');
 @import url('/src/css/blocks/button.css');
 @import url('/src/css/blocks/advantages.css');
+@import url('/src/css/blocks/consultation.css');
+@import url('/src/css/blocks/forms.css');
 
 * {
 	font-family: 'Museo Sans Cyrl', sans-serif;

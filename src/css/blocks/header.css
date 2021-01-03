@@ -33,6 +33,19 @@
     text-decoration: none;
 }
 
+.header .button {
+    width: 150px;
+    height: 30px;
+    background-color: #c70101;
+    border-radius: 5px;
+    border: none;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #ffffff;
+	outline: none;
+}
+
 .header__phone:hover {
     text-decoration: none;
     color: #fff;
